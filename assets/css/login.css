@@ -1,0 +1,13 @@
+.login{
+    margin: 0 auto;
+    margin-top: 20px;
+    max-width: 500px;    
+}
+.redirect{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.redirect-text a {
+    text-decoration: none;
+    color: #1d81e6;
+}
